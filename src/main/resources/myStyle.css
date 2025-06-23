@@ -1,0 +1,27 @@
+.button{
+    -fx-background-color: #774905;
+}
+
+#LVbox{
+    -fx-background-color: #774905;
+}
+
+#TopRVbox{
+    -fx-background-color: lime ;
+}
+
+#bottomRVbox{
+    -fx-background-color: lime;
+}
+
+#bottom_bar{
+    -fx-background-color: grey;
+}
+
+#TopHbox{
+    -fx-background-color: #774905;
+}
+
+#MenuBar{
+    -fx-background-color: grey;
+}
